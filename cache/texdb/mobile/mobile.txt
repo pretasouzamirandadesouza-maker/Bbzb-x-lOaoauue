@@ -1,0 +1,201 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=4 defaultstream=1
+"hud_Cellphone" width=256 height=256 png=ede021cd img=53fd5206 alphamode=2
+"Detail_Asphalt" width=128 height=128 png=8c502a27 img=76c5d768 isdetail=1
+"Detail_Grass" width=128 height=128 png=a115ce9a img=7fc900ea isdetail=2
+"Detail_Sand" width=128 height=128 png=4e09f802 img=ffa69a32 isdetail=3
+"Detail_Water" width=128 height=128 png=08fb2768 img=ed411882 isdetail=4
+"Detail_Bark" width=128 height=128 png=37d4c63d img=94ef2472 isdetail=5
+"Detail_Stucco" width=128 height=128 png=1cd7ae94 img=052ca341 isdetail=6
+"Detail_Rock" width=128 height=128 png=32d8110c img=dca43bbc isdetail=7
+"Detail_Fabric" width=128 height=128 png=2e766f51 img=403eb0fd isdetail=8
+"Detail_Concrete" width=128 height=128 png=6a830928 img=01828f13 isdetail=9
+"Detail_WoodHoriz" width=128 height=128 png=2c1a9a45 img=4f1322a6 isdetail=10
+"Detail_WoodVert" width=128 height=128 png=516f5890 img=4df13586 isdetail=11
+"Detail_Bark2" width=128 height=128 png=80fbb1d5 img=90080bf2 isdetail=12
+"Detail_Gravel" width=128 height=128 png=5427f538 img=1a2d6960 isdetail=13
+"Detail_Darken" width=128 height=128 png=a5394b58 img=6cdfda00 isdetail=14
+"ArcadeJoystick_Base" width=256 height=256 png=4598a526 img=73892b38 alphamode=2
+"ArcadeJoystick_Knob" width=512 height=512 png=c79daac9 img=8f8bf6e1 alphamode=2
+"SliderBG" width=32 height=32 png=49ce8c50 img=02fc6807 alphamode=2
+"SliderThumb" width=32 height=32 png=bbacd19e img=120bcdf3 alphamode=2
+"white" width=4 height=4 png=f8f26859 img=fc1c05de
+"shop_barber" width=256 height=256 png=fb855e3b img=e94d5923 alphamode=2
+"ShopBackground" width=256 height=256 png=205e16e4 img=413f9963 alphamode=2
+"GangBackground" width=256 height=128 png=d79f17f2 img=6e98ec56 alphamode=2
+"shop_car_mods" width=256 height=256 png=6ae786da img=070e5c4b alphamode=2
+"shop_ammu_nation" width=256 height=256 png=fb1f3caf img=1752ab6e alphamode=2
+"shop_bodyparts" width=256 height=256 png=38428670 img=14dc84e9 alphamode=2
+"shop_barber2" width=256 height=256 png=42b45c28 img=ff24ab8e alphamode=2
+"AmmunationAccept" width=256 height=256 png=72916ec4 img=95f3abe8 alphamode=2
+"shop_clothes2" width=256 height=256 png=1be2248d img=a7a5cea1 alphamode=2
+"DialogBox" width=128 height=128 png=d44cdf88 img=bc36bf50 alphamode=2
+"shop_clothes3" width=256 height=256 png=7f1add9b img=c1d07ce6 alphamode=2
+"shop_clothes4" width=256 height=256 png=e36fb362 img=6b7bfc9d alphamode=2
+"TouchFinger" width=64 height=128 png=a95a2298 img=cf7866b4 alphamode=2
+"CornerGradient" width=128 height=128 png=c1385d4b img=88fc4ec9 alphamode=2
+"shop_icons" width=256 height=256 png=67c4899e img=b8b47478 alphamode=2
+"hydraulicCar" width=256 height=256 png=ca3a7e07 img=2b0f3bdf alphamode=2
+"TVArrow_LeftPressed" width=256 height=256 png=3fab5c0f img=908eb4c5 alphamode=2
+"TVArrow_RightPressed" width=256 height=256 png=c408141c img=2a945eb8 alphamode=2
+"TVButton_Pressed" width=512 height=512 png=920a693b img=0360f0b9 alphamode=2
+"hud_ticks" width=256 height=256 png=f561baa2 img=9df3bd2f alphamode=2
+"SquareTick" width=256 height=256 png=d33083ab img=1f2e1a1a alphamode=2
+"ButtonsKeyboard" width=512 height=512 png=a8c37004 img=192b4ad6 alphamode=2
+"shop_car_mods2" width=256 height=256 png=f7c1e2a3 img=53284b7f alphamode=2
+"shop_car_mods3" width=256 height=256 png=7e5c5f38 img=03b9a66e alphamode=2
+"bronze_bike" width=128 height=128 png=635005e6 img=d8d4ccf7 alphamode=2
+"silver_bike" width=128 height=128 png=83516031 img=127b25a7 alphamode=2
+"gold_bike" width=128 height=128 png=cc836584 img=c400e018 alphamode=2
+"ButtonsMoga" width=256 height=256 png=51ce79cb img=59f2696f alphamode=2
+"ButtonsMogaPocket" width=256 height=256 png=bc8fbee9 img=4305591d alphamode=2
+"shop_clothes1" width=256 height=256 png=03f144be img=397c995d alphamode=2
+"shop_clothes5" width=256 height=256 png=fbcfaf91 img=82b720a9 alphamode=2
+"shop_clothes6" width=256 height=256 png=03874d1d img=f147c17a alphamode=2
+"shop_clothes7" width=256 height=256 png=b90d9e82 img=36fa7c1d alphamode=2
+"ButtonsIOSSimple" width=256 height=256 png=a1c8dc41 img=46ee69c0 alphamode=2
+"HoldButton" width=128 height=64 png=8edda341 img=40b757d1 alphamode=2
+"PokerButton" width=128 height=128 png=5b151050 img=770ed4e9 alphamode=2
+"HoldButtonPressed" width=128 height=64 png=f83e8a3e img=35286bde alphamode=2
+"PokerButtonPressed" width=128 height=128 png=d99488da img=a0e70774 alphamode=2
+"ArcadeJoystick_Knob_orange" width=512 height=512 png=d4a4c453 img=1729c30f alphamode=2
+"ArcadeJoystick_Knob_Teal" width=512 height=512 png=2ccefe46 img=9811b2a6 alphamode=2
+"ArcadeJoystick_Knob_white" width=512 height=512 png=dcbc0945 img=6146ee10 alphamode=2
+"ArcadeBlackPressed" width=256 height=256 png=91cd74d1 img=91adcf9d alphamode=2
+"ArcadeBlackReleased" width=256 height=256 png=04411ec7 img=ce16cdea alphamode=2
+"ArcadeGreenPressed" width=256 height=256 png=c6ef1b99 img=739a9c9a alphamode=2
+"ArcadeGreenReleased" width=256 height=256 png=a5312e23 img=630672ba alphamode=2
+"ArcadeRedPressed" width=256 height=256 png=c32cd109 img=ba8bcc18 alphamode=2
+"ArcadeRedReleased" width=256 height=256 png=62a4058d img=3ee276e8 alphamode=2
+"ArcadeYellowPressed" width=256 height=256 png=2fd37b3f img=6c6263c0 alphamode=2
+"ArcadeYellowReleased" width=256 height=256 png=d33a5516 img=d4bf9746 alphamode=2
+"ButtonsMogaPro" width=512 height=512 png=cf0e9d9d img=edf6767d alphamode=2
+"ButtonsXbox360" width=512 height=512 png=e0e402f0 img=77d2c39d alphamode=2
+"ButtonsPS3" width=512 height=512 png=43762c86 img=96cc9e5e alphamode=2
+"accelerate" width=256 height=256 img=f4140e51 alphamode=2
+"accelerate_solo" "affiliate=accelerate"
+"ammunationaccept" "affiliate=accelerate"
+"ArcadeButton_ExitDown" width=256 height=256 img=0 alphamode=2
+"ArcadeButton_ExitUp" "affiliate=ArcadeButton_ExitDown"
+"ArcadeButton_ResetDown" "affiliate=ArcadeButton_ExitDown"
+"ArcadeButton_ResetUp" "affiliate=ArcadeButton_ExitDown"
+"armoricon" "affiliate=accelerate"
+"Arrow" "affiliate=ArcadeButton_ExitDown"
+"ArrowLeft" "affiliate=ArcadeButton_ExitDown"
+"ArrowLeftPressed" "affiliate=ArcadeButton_ExitDown"
+"ArrowRight" "affiliate=ArcadeButton_ExitDown"
+"ArrowRightPressed" "affiliate=ArcadeButton_ExitDown"
+"BarberAccept" "affiliate=accelerate"
+"basketball_shoot" "affiliate=accelerate"
+"basketball_trick" "affiliate=accelerate"
+"BJContinue" "affiliate=accelerate"
+"BJDouble" "affiliate=accelerate"
+"BJHit" "affiliate=accelerate"
+"BJQuit" "affiliate=accelerate"
+"BJSplit" "affiliate=accelerate"
+"BJStand" "affiliate=accelerate"
+"BlueArrow" "affiliate=accelerate"
+"brake" "affiliate=accelerate"
+"brassknuckle" "affiliate=accelerate"
+"cam-toggle" "affiliate=accelerate"
+"CarModsAccept" "affiliate=accelerate"
+"circle" "affiliate=ArcadeButton_ExitDown"
+"ClothesAccept" "affiliate=accelerate"
+"crane_down" "affiliate=accelerate"
+"crane_release" "affiliate=accelerate"
+"crane_up" "affiliate=accelerate"
+"crosshair" "affiliate=ArcadeButton_ExitDown"
+"crouch" "affiliate=accelerate"
+"drop_item" "affiliate=accelerate"
+"enterandexit" "affiliate=accelerate"
+"fadeinbox" "affiliate=ArcadeButton_ExitDown"
+"FistBump" "affiliate=accelerate"
+"flamethrower" "affiliate=accelerate"
+"Gift" "affiliate=accelerate"
+"goggles" "affiliate=accelerate"
+"GreenArrow" "affiliate=accelerate"
+"GymAccept" "affiliate=accelerate"
+"handbrake" "affiliate=accelerate"
+"horn" "affiliate=accelerate"
+"hud_analognub" "affiliate=accelerate"
+"hud_arrow" "affiliate=ArcadeButton_ExitDown"
+"hud_bat" "affiliate=accelerate"
+"hud_bicycle" "affiliate=accelerate"
+"hud_bike" "affiliate=accelerate"
+"hud_boat" "affiliate=accelerate"
+"hud_bomb" "affiliate=accelerate"
+"hud_burnout" "affiliate=accelerate"
+"hud_buy" "affiliate=accelerate"
+"hud_camera" "affiliate=accelerate"
+"hud_cane" "affiliate=accelerate"
+"hud_car" "affiliate=accelerate"
+"hud_cellphone" "affiliate=accelerate"
+"hud_chainsaw" "affiliate=accelerate"
+"hud_check" "affiliate=accelerate"
+"hud_chopper" "affiliate=accelerate"
+"hud_circle" "affiliate=ArcadeButton_ExitDown"
+"hud_crouch" "affiliate=accelerate"
+"hud_dance" "affiliate=accelerate"
+"hud_dance_alt" "affiliate=accelerate"
+"hud_detonator" "affiliate=accelerate"
+"hud_dildo1" "affiliate=accelerate"
+"hud_dildo2" "affiliate=accelerate"
+"hud_dive" "affiliate=accelerate"
+"hud_drop_jetpack" "affiliate=accelerate"
+"hud_extinguisher" "affiliate=accelerate"
+"hud_flowers" "affiliate=accelerate"
+"hud_golfclub" "affiliate=accelerate"
+"hud_katana" "affiliate=accelerate"
+"hud_knife" "affiliate=accelerate"
+"hud_left" "affiliate=accelerate"
+"hud_lockon" "affiliate=accelerate"
+"hud_magnet" "affiliate=accelerate"
+"hud_minus" "affiliate=accelerate"
+"hud_monstertruck" "affiliate=accelerate"
+"hud_nightstick" "affiliate=accelerate"
+"hud_nitro" "affiliate=accelerate"
+"hud_parachute" "affiliate=accelerate"
+"hud_plane" "affiliate=accelerate"
+"hud_plus" "affiliate=accelerate"
+"hud_pool" "affiliate=accelerate"
+"hud_poolcue" "affiliate=accelerate"
+"hud_right" width=256 height=256 img=d02c2706 alphamode=2
+"hud_rockets" "affiliate=accelerate"
+"hud_spraycan" "affiliate=accelerate"
+"hud_stinger" "affiliate=accelerate"
+"hud_swapgun" "affiliate=accelerate"
+"hud_swim" "affiliate=accelerate"
+"hud_tab" "affiliate=accelerate"
+"hud_tank_left" "affiliate=accelerate"
+"hud_tank_right" "affiliate=accelerate"
+"hud_teargas" "affiliate=accelerate"
+"hud_throw" "affiliate=accelerate"
+"hud_trailer" "affiliate=accelerate"
+"hud_train" "affiliate=accelerate"
+"hud_wheelie" "affiliate=accelerate"
+"hud_x" "affiliate=ArcadeButton_ExitDown"
+"hydrauliccar" "affiliate=ArcadeButton_ExitDown"
+"kiss" "affiliate=accelerate"
+"leftshoot" "affiliate=accelerate"
+"LetsGoHand" "affiliate=accelerate"
+"lock" "affiliate=ArcadeButton_ExitDown"
+"menu_back" "affiliate=accelerate"
+"menu_down" "affiliate=accelerate"
+"menu_up" "affiliate=accelerate"
+"mission_start" "affiliate=ArcadeButton_ExitDown"
+"No" "affiliate=accelerate"
+"punch" "affiliate=accelerate"
+"radiostation" "affiliate=accelerate"
+"RedArrow" "affiliate=accelerate"
+"shoot" "affiliate=accelerate"
+"shovel" "affiliate=accelerate"
+"sprint" "affiliate=accelerate"
+"StopHand" "affiliate=accelerate"
+"StoreBuy" "affiliate=accelerate"
+"SwipeArrow" "affiliate=accelerate"
+"TattooAccept" "affiliate=accelerate"
+"TVArrow_Left" "affiliate=ArcadeButton_ExitDown"
+"TVArrow_Right" "affiliate=ArcadeButton_ExitDown"
+"TVButton" "affiliate=ArcadeButton_ExitDown"
+"WhiteCircle" "affiliate=accelerate"
+"YellowArrow" "affiliate=accelerate"
+"Yes" "affiliate=accelerate"

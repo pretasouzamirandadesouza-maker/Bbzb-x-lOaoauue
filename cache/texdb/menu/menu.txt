@@ -1,0 +1,44 @@
+cat=0 name=Default onfoot=5 slow=5 fast=5 defaultformat=4 defaultstream=1
+"menu_mainbriefs" width=64 height=64 img=00268fb4 png=a8ddcfc0 alphamode=2 streammode=1
+"menu_mainhelp" width=64 height=64 img=ef5763c2 png=657892e6 alphamode=2 streammode=1
+"menu_mainplay" width=64 height=64 img=57359752 png=8662a3c9 alphamode=2 streammode=1
+"menu_mainpresents" width=256 height=32 img=5619bcec png=60fa8b75 mipmode=0 alphamode=2 streammode=1
+"menu_mainsettings" width=64 height=64 img=68fa8f65 png=1103424b alphamode=2 streammode=1
+"menu_mainstats" width=64 height=64 img=c8a667d3 png=128a961b alphamode=2 streammode=1
+"menu_selector" width=32 height=64 img=30ac1c0b png=22d02af5 mipmode=0 alphamode=2 streammode=1
+"menu_smalllogo" width=256 height=256 img=293f4934 png=015bd676 alphamode=2 streammode=1
+"menu_adjback" width=512 height=256 img=f8619f25 png=38ed5e44 streammode=1
+"menu_mainaudio" width=64 height=64 img=23565052 png=e2d8952d alphamode=2 streammode=1
+"menu_maincontrols" width=64 height=64 img=80e56cd8 png=59c971b7 alphamode=2 streammode=1
+"menu_maindelete" width=64 height=64 img=dff42bdd png=e1e1f886 alphamode=2 streammode=1
+"menu_maindisplay" width=64 height=64 img=aad3ecee png=5d53d0fd alphamode=2 streammode=1
+"menu_mainlanguage" width=64 height=64 img=0319c041 png=bcf8e0ad alphamode=2 streammode=1
+"menu_mainquit" width=64 height=64 img=8ebcf060 png=6766388c alphamode=2 streammode=1
+"menu_mainresume" width=64 height=64 img=33b58388 png=37bf0b0a alphamode=2 streammode=1
+"menu_mainsave" width=64 height=64 img=88392487 png=3dcfe210 alphamode=2 streammode=1
+"mobilesc1" "affiliate=mobilesc0"
+"mobilesc2" "affiliate=mobilesc0"
+"mobilesc3" "affiliate=mobilesc0"
+"mobilesc4" "affiliate=mobilesc0"
+"mobilesc5" "affiliate=mobilesc0"
+"mobilesc6" "affiliate=mobilesc0"
+"mobilesc0" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_main4" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_main3" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_main2" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_main1" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_mainmask" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char0" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char1" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char2" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char3" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char4" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char5" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char6" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char7" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_char8" width=4 height=4 img=0 camnorm=1 alphamode=2 streammode=1
+"menu_sliderempty" width=128 height=32 img=f6a22bc2 camnorm=1 alphamode=2 streammode=1
+"menu_sliderfull" width=128 height=32 img=10680235 camnorm=1 alphamode=2 streammode=1
+"menu_adjback2" width=732 height=912 img=79a999de camnorm=1 mipmode=0 streammode=1
+"menu_slidernub" width=156 height=172 img=cdc1f9b6 camnorm=1 mipmode=0 alphamode=2 streammode=1
+"menu_bgmap" width=540 height=540 img=f4784fa9 mipmode=0 streammode=1
